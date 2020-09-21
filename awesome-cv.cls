@@ -377,7 +377,7 @@
 
 % Others
 \newcommand{\acvSectionTopSkip}{2mm}
-\newcommand{\acvSectionContentTopSkip}{1.5mm}
+\newcommand{\acvSectionContentTopSkip}{3mm}
 
 
 %-------------------------------------------------------------------------------
